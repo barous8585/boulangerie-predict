@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Données utilisateurs (sensibles)
+users.json
+historique_*.csv
+
+# Fichiers générés
+*.pdf
+*.xlsx
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/

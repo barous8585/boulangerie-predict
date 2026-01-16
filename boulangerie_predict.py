@@ -27,6 +27,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# Version 3.0 Premium - Janvier 2026
+
 FICHIER_USERS = "users.json"
 FICHIER_ABONNEMENTS = "abonnements.json"
 FICHIER_NOTIFICATIONS = "notifications.json"
